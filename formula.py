@@ -14,4 +14,4 @@ def calculate_cultivation_effectiveness(terrain, conditions):
   CONDITIONS_FACTOR = 0.7
 
   # Calculamos el resultado del cultivo en función del terreno y las condiciones
-  result = TERRAIN_FACTOR * terrain + CONDITIONS_F
+  result = TERRAIN_FACTOR * terrain + CONDITIONS_FACTOR

@@ -5,6 +5,7 @@ import math
 #Agua no estancada
 #Material organico
 #Se planta por las plantas o por semilla
+#Tipo de fresa
 
 # Definimos la función para calcular el porcentaje de efectividad del cultivo
 def calculate_cultivation_effectiveness(terrain, conditions):
